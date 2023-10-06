@@ -21,3 +21,5 @@ std::string GetCustomerType(const CustomerType value)
     else
         return "VIP";
 }
+
+
