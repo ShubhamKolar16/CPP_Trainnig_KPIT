@@ -11,7 +11,6 @@
 void CreateObjects(Employee* e[SIZE]);
 
 /*
-
 a function to return the pointetr to the employee with the highest salary
 */
 

@@ -1,6 +1,6 @@
 {
-    "C_Cpp.errorSquiggles": "enabled",
     "files.associations": {
+        "iosfwd": "cpp",
         "array": "cpp",
         "atomic": "cpp",
         "bit": "cpp",
@@ -35,7 +35,6 @@
         "utility": "cpp",
         "fstream": "cpp",
         "initializer_list": "cpp",
-        "iosfwd": "cpp",
         "iostream": "cpp",
         "istream": "cpp",
         "limits": "cpp",
@@ -44,7 +43,6 @@
         "sstream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp",
-        "list": "cpp"
+        "typeinfo": "cpp"
     }
 }

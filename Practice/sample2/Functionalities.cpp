@@ -39,3 +39,4 @@ Car* findBestPassengerCar(Car* arr[SIZE], CAR_CATEGORY cCategory){
     }
     return bestCar;
 }
+

@@ -26,8 +26,7 @@ public:
 
     float budget() const { return _budget; }
 
-    friend std::ostream &operator<<(std::ostream &os, const Project &rhs);
-    
+    friend std::ostream &operator<<(std::ostream &os, const Project &rhs); 
 };
 
 
